@@ -1,7 +1,7 @@
 # Analisis Sentimen Postingan Diskominfos Denpasar tentang 10 Proyek Strategis
 
 ## Deskripsi Proyek
-Proyek ini merupakan salah satu bentuk **luaran Praktik Kerja Lapangan (PKL)** yang dilakukan di **Dinas Komunikasi, Informatika, dan Statistik Kota Denpasar**.  
+Proyek ini merupakan salah satu bentuk tugas yang dikerjakan pada **Praktik Kerja Lapangan (PKL)** di **Dinas Komunikasi, Informatika, dan Statistik Kota Denpasar**.  
 Tujuan proyek adalah melakukan **analisis sentimen masyarakat terhadap komentar Instagram terkait 10 proyek strategis Kota Denpasar**.  
 
 Sistem dikembangkan menggunakan **machine learning** dengan dua algoritma utama:  
